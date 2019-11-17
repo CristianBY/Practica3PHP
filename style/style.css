@@ -1,0 +1,14 @@
+.cabecera {
+	background-color: lightyellow;
+}
+.contenido {
+	background-color: lightgray;
+}
+input[type="submit"]{
+	border: 1px solid blue;
+	background-color: white;
+	border-radius: 5px;
+}
+span {
+	color: red;
+}
