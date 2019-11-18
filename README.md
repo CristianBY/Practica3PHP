@@ -7,12 +7,12 @@ Accede a la base de datos con PDO y la extensión mysqli.
 _Use el comando git_
 
 ```
-$ git clone https://github.com/CristianBY/TiendaPHP.git
+$ git clone https://github.com/CristianBY/Practica3PHP.git
 ```
 _Checkout con svn use la URL:_
 
 ```
-https://github.com/CristianBY/TiendaPHP.git
+https://github.com/CristianBY/Practica3PHP.git
 ```
 
 ## Requisitos 📋
